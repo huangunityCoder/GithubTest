@@ -8,7 +8,9 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    let name = ""
+    let age = 10
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
